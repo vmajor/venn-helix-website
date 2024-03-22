@@ -963,3 +963,12 @@ blockquote {
 	top: 0;
 	left: -2400px;
 }
+.buttons-container {
+  display: flex;
+  justify-content: center; /* Centers the button group in the flex container */
+  align-items: center; /* This is optional, depending on your vertical alignment needs */
+}
+
+.mbr-section-btn {
+  margin: 0 10px; /* Adds margin to the left and right of each button */
+}

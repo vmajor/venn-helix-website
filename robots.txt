@@ -1,18 +1,4 @@
-User-agent: GPTBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Googlebot
-Allow: /
-
 User-agent: *
-Disallow: /assets/bootstrap/
-Disallow: /assets/mobirise/
-Disallow: /assets/formoid/
+Allow: /
 
 Sitemap: https://helix.venn-cycling.com/sitemap.xml

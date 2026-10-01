@@ -1,12 +1,10 @@
-# Venn Helix-01 Hub
+# Venn Helix-01 hub set
 
-> Premium bicycle hub with helical gear engagement, cold forged shell, and oversize angular contact bearing. Made in Taiwan by Venn Cycling.
+> Disc brake thru-axle bicycle hub set by Venn Cycling: a 72-tooth helical gear ratchet that the drive torque pulls into engagement (no free play under power), a 41.5 mm nano-coated angular contact bearing, a cold-forged shell, a 15 mm 7075-T6 axle. Front 105 g, rear 243 g. Made in Taiwan. USD 449 a set; also built into the Venn 520 Helix (road) and 440 Helix (gravel) carbon wheelsets, USD 1,499.
 
-## Core Pages
-- [Home](https://helix.venn-cycling.com/): Product page for the Venn Helix-01 hub set — features, pricing, specifications, FAQ, and contact.
-
-## Product
-- [Order](https://www.venn-cycling.com/product/venn-helix-01-helical-engagement-ratchet-hub-set/): Purchase the Venn Helix-01 hub set from the Venn Cycling store.
-
-## Company
-- [Venn Cycling](https://www.venn-cycling.com): Main Venn Cycling website with full product range and company information.
+## Pages
+- [Helix-01 hub set](https://helix.venn-cycling.com/): engagement, bearing, construction, weight, specifications, wheelsets, price, FAQ.
+- [Buy the hub set](https://www.venn-cycling.com/product/venn-helix-01-helical-engagement-ratchet-hub-set/)
+- [Venn 520 Helix wheelset](https://www.vennwheels.com/en-us/store/vennwheels-520-helix-carbon-road-disc/)
+- [Venn 440 Helix wheelset](https://www.vennwheels.com/en-us/store/vennwheels-440-helix-carbon-gravel/)
+- [Venn Cycling](https://www.venn-cycling.com/): carbon rims and parts.

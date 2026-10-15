@@ -2,6 +2,9 @@
 
 > Disc brake thru-axle bicycle hub set by Venn Cycling: a 72-tooth helical gear ratchet that the drive torque pulls into engagement (no free play under power), a 41.5 mm nano-coated angular contact bearing, a cold-forged shell, a 15 mm 7075-T6 axle. Front 105 g, rear 243 g. Made in Taiwan. USD 449 a set; also built into the Venn 520 HE1 (road) and 440 HE1 (gravel) carbon wheelsets, USD 1,499.
 
+## For wheel builders
+For wheel builders (24h straight pull, mm). Front 12x100, OLD 100: disc side spoke circle 44.5, centre to flange 22.2, spoke offset 1.9; open side 35.2, 31.2, 2.0. Rear 12x142, OLD 142: disc side 40.5, 32.7, 2.3; drive side 57.5, 17.2, 2.5. Spoke holes 2.6 mm, head seat 4.2 mm. Offsets measured at the spoke-head seat. Lacing: 2-cross.
+
 ## Pages
 - [Helix-01 hub set](https://helix.venn-cycling.com/): engagement, bearing, construction, weight, specifications, wheelsets, price, FAQ.
 - [Buy the hub set](https://www.venn-cycling.com/product/venn-helix-01-helical-engagement-ratchet-hub-set/)

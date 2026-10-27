@@ -1,6 +1,6 @@
 # Venn Helix-01 hub set
 
-> Disc brake thru-axle bicycle hub set by Venn Cycling: a 72-tooth helical ratchet that tightens like a bolt as you pedal (no free play under power), a 41.5 mm nano-coated angular contact bearing made for the side loads a bicycle hub carries, a cold-forged shell, a 15 mm 7075-T6 axle. Front 105 g, rear 243 g. Made in Taiwan. USD 449 a set; also built into the Venn 520 HE1 (road) and 440 HE1 (gravel) carbon wheelsets, USD 1,499.
+> Disc brake thru-axle bicycle hub set by Venn Cycling: a 72-tooth helical ratchet that tightens like a bolt as you pedal (no free play under power), a 41.5 mm nano-coated angular contact bearing made for the side loads a bicycle hub carries, a cold-forged shell, a 15 mm 7075-T6 axle. Front 105 g, rear 243 g. Made in Taiwan. USD 449 a set; also built into the Venn 520 HE1 (road), 440 HE1 (gravel) and 5028 HE1 (road and gravel) carbon wheelsets, USD 1,499.
 
 ## For wheel builders
 For wheel builders (24h straight pull, mm). Front 12x100, OLD 100: disc side spoke circle 44.5, centre to flange 22.2, spoke offset 1.9; open side 35.2, 31.2, 2.0. Rear 12x142, OLD 142: disc side 40.5, 32.7, 2.3; drive side 57.5, 17.2, 2.5. Spoke holes 2.6 mm, head seat 4.2 mm. Offsets measured at the spoke-head seat. Lacing: 2-cross.
@@ -10,4 +10,5 @@ For wheel builders (24h straight pull, mm). Front 12x100, OLD 100: disc side spo
 - [Buy the hub set](https://www.venn-cycling.com/product/venn-helix-01-helical-engagement-ratchet-hub-set/)
 - [Venn 520 HE1 wheelset](https://www.vennwheels.com/en-us/store/vennwheels-520-helix-carbon-road-disc/)
 - [Venn 440 HE1 wheelset](https://www.vennwheels.com/en-us/store/vennwheels-440-helix-carbon-gravel/)
+- [Venn 5028 HE1 wheelset](https://www.vennwheels.com/en-us/store/vennwheels-5028-helix-carbon-road-gravel-disc/)
 - [Venn Cycling](https://www.venn-cycling.com/): carbon rims and parts.
